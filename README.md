@@ -131,7 +131,6 @@ Enter your choice (1-5): 5
 
 ---
 
-Let me know if you'd like to adjust anything! 😊
 
 
 
