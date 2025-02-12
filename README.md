@@ -3,7 +3,7 @@
 
 
 # Key Fixtures and Features 
----
+--- 
 
 ## Stopwatch Program - README
 
